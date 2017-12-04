@@ -1,0 +1,4 @@
+<?php
+	ehco "Hello World!";
+
+?>
