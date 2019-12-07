@@ -3,4 +3,4 @@
 ## DSN file
 	you can simulate first
 ## Hex file
-	can flash and write and run
+	can flash and run on C51
