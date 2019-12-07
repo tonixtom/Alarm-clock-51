@@ -1,6 +1,6 @@
 # Alarm-clock-51 
-c language  
+	write by c 
 ## DSN file
-
+	you can simulate first
 ## Hex file
-
+	can flash and write and run
